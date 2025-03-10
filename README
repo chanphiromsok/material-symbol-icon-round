@@ -1,0 +1,5 @@
+### Caution
+
+- This repository is used for @react-native-vector-icons/common on mobile for web you can include the font to your html scripts to support react-native-web
+- The font folder and glyphmaps.json are generated using svg-to-glyphmap.
+- By default, the font weight is set to 300, and icons have a rounded style.
